@@ -1,0 +1,12 @@
+
+{
+	"version": "0.1.0",
+
+	// The command is tsc. Assumes that tsc has been installed using npm install -g typescript
+	"command": "tsc",
+	"isShellCommand": true,
+	"showOutput": "silent",
+	"args": ["HelloWorld.ts"],
+	"problemMatcher": "$tsc"
+}
+
